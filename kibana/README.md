@@ -7,7 +7,7 @@ Trivial to integrate via
 [docker compose](https://docs.docker.com/compose/) with official
 Elastic Search image.
 
-```yaml
+```
 elasticsearch:
   image: elasticsearch
   ports:
